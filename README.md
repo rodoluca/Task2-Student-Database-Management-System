@@ -26,7 +26,7 @@ descending order by their grade.
 a) Implement a query to retrieve information about all male students from the "student_table".
 
 ### 5.Query for Students with GPA less than 5.0
-a) Create a query to fetch the details of students who have a GPA less than 5.0 from the
+a) Create a query to fetch the details of students who have a GPA less than 2.5 from the
 "student_table".
 
 ### 6.Update Student Email and Grade
