@@ -1,4 +1,4 @@
-#Task2 - Student Database Management System
+# Task2 - Student Database Management System
 
 ### Project Description:
 Design and implement a student database management system using PostgreSQL
